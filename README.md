@@ -134,7 +134,3 @@ Here is our loss for full model and decoder loss
 ## Model checkpoint
 
 Model trained on 1000 epochs can be found [here](https://github.com/m607stars/MultiImageSteganography/tree/master/models) 
-
-# Contributors
-- [Mayank Chowdhary](https://github.com/m607stars)
-- [Talha Chafekar](https://github.com/talha1503)
