@@ -130,7 +130,3 @@ Here is our loss for full model and decoder loss
 * We could not use the validation set due to limitations of the GPU. 
 * In the author's implementation, for each block, they have used a kernel size of 4 for the second layer. But we have kept it 3.
 * We have not added gaussian noise to the encoder's output. 
-
-## Model checkpoint
-
-Model trained on 1000 epochs can be found [here](https://github.com/m607stars/MultiImageSteganography/tree/master/models) 
